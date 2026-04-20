@@ -33,7 +33,7 @@
     <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
   </a>
 
-  <a href="linkedin.com/in/laxmiganeshchary-velisoju-648099282">
+  <a href="https://www.linkedin.com/in/laxmiganeshchary-velisoju-648099282/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BtEbI4q3sR0OvMoUxV0sfRQ%3D%3D">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logoColor=white" />
   </a>
 </p>
